@@ -1,2 +1,4 @@
-#Test file
-Here is what we are going to use for the test.
+#Test file, and deleted dot.
+Here is what we are going to use for the test
+#Mergable text
+How this text is going to be meged
